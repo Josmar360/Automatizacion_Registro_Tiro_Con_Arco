@@ -27,7 +27,7 @@ colores = {
 db = mysql.connector.connect(
     host="host",          # Nombre del host
     user="usuario",               # Usuario de MySQL
-    password="Contraseña",      # Contraseña de MySQL
+    password="contraseña",      # Contraseña de MySQL
     database="Tiro_Con_Arco"   # El nombre de la base de datos
 )
 

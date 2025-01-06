@@ -1,0 +1,16 @@
+===== Detalles del mensaje =====
+📌 Asunto: [ADVERTENCIA, MENSAJE EXTERNO] Resultados entrenamiento
+📧 Remitente: Josmar Gustavo Palomino Castelán <josmargustavopalominocastelan@gmail.com>
+📅 Fecha: 2024-11-18 20:18:11-06:00
+
+===== Contenido =====
+
+	ADVERTENCIA, REMITENTE EXTERNO 
+	ESTE MENSAJE SE ORIGINÓ FUERA DE LOS SERVICIOS INSTITUCIONALES. NO HAGA CLIC EN ENLACES NI ABRA ARCHIVOS ADJUNTOS Y LO MAS IMPORTANTE NO PROPORCIONE INFORMACIÓN A MENOS QUE RECONOZCA AL REMITENTE Y TENGA CERTEZA QUE EL CONTENIDO ES SEGURO. 
+
+
+Número ID: 1
+
+
+===== Archivos adjuntos =====
+📎 MyTargets_exported_data_2024_11_18_20_17_42.csv
